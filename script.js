@@ -13,3 +13,4 @@ changeSize.addEventListener("click", function() {
     image.style.height = "100px"
   }
 })
+
